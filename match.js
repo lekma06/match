@@ -8,7 +8,7 @@ let resultatMatch1 = "victoire " + equipe1;
 let resultatMatch2 = "victoire " + equipe4;
 
 let resultat = 0;
-if(resultat<52){
+if(resultat<15){
     console.log(true);
 }else{
     console.log(false)
