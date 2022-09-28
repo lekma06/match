@@ -1,0 +1,25 @@
+div{
+    font-size: 3rem;
+    color: rgb(73, 86, 19);
+    text-align: center;
+    border: solid black 3px;
+    
+    margin: 15%;
+    padding: 1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+ 
+}
+h1,h2,h3{
+    font-size: 2rem;
+    color: rgb(95, 5, 5);
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    display: block; 
+    margin: auto;     
+}
+body{
+    background-color: rgb(234, 173, 185);
+}
